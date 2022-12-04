@@ -4,3 +4,4 @@ ECE
 CSE
 EEE
 IT
+AI
