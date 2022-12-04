@@ -1,0 +1,6 @@
+Welcomen to VITS College!!!
+The branches available here are as below!!!
+ECE
+CSE
+EEE
+IT
